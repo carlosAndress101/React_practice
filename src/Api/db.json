@@ -1,0 +1,69 @@
+{
+    "cupcake":[
+        {
+            "id":1,
+            "imagen":"https://unareceta.com/wp-content/uploads/2016/10/cupcakes-de-chocolate-sin-mantequilla--380x253.jpg",
+            "sabor":"Chocolate",
+            "color":"Cafe",
+            "descripcion":"Cupcake de chocolate legendario extra chocolate",
+            "precio":10
+        },
+        {
+            "id":2,
+            "imagen":"https://valentinascorner.com/wp-content/uploads/2022/02/Vanilla-Cupcakes.jpg",
+            "sabor":"Vainilla",
+            "color":"blanco",
+            "descripcion":"Cupcake de vainilla legendario extra rico",
+            "precio":9
+        },
+        {
+            "id":3,
+            "imagen":"https://dam.cocinafacil.com.mx/wp-content/uploads/2019/02/portada-cupcakes.jpg",
+            "sabor":"tres sabores",
+            "color":"cafe, blanco",
+            "descripcion":"Cupcakes tres por uno legendarios extra sabor y consentracion",
+            "precio":25
+        },
+        {
+            "id":4,
+            "imagen":"https://www.diariamenteali.com/medias/receta-de-cupacke-de-vainilla-con-buttercream-de-Tita-Saavedra-1900Wx500H?context=bWFzdGVyfHJvb3R8MTY4NjY4fGltYWdlL2pwZWd8aGJiL2g4OS85MDc0MjA5NDU2MTU4L3JlY2V0YS1kZS1jdXBhY2tlLWRlLXZhaW5pbGxhLWNvbi1idXR0ZXJjcmVhbS1kZS1UaXRhLVNhYXZlZHJhXzE5MDBXeDUwMEh8NDVhMzU2Yjg2MmM2OWJkOTcyM2U3YWE3NmE5NDVmY2RiZjQ2ODFmZmM5N2NmNzhjNmJhMWJjNDIxMWMwZGViNg",
+            "sabor":"Mantequila astroworld",
+            "color":"mantequilla",
+            "descripcion":"Cupcake de mantequilla ultra rico",
+            "precio":12
+        },
+        {
+            "id":5,
+            "imagen":"https://horneandolasnubes.com/wp-content/uploads/2018/04/cupcakeVainillaRosa.jpg",
+            "sabor":"fresa vainilla",
+            "color":"Rosa",
+            "descripcion":"Cupcake de fresa legendario extra chispas",
+            "precio":15
+        },
+        {
+            "id":6,
+            "imagen":"https://www.namesnack.com/images/namesnack-cupcake-business-names-3993x6005-20210127.jpeg?crop=40:21,smart&width=1200&dpr=2",
+            "sabor":"cerezado",
+            "color":"rosa",
+            "descripcion":"Cupcake cerezado legendario extra chispas",
+            "precio": 20
+        },
+        {
+            "id":7,
+            "imagen":"https://media.mykaramelli.com/galeria/recetas/cupcakes-de-chocolate-blanco-y-batido-de-fresa_125_1.jpg",
+            "sabor":"Chocolate blanco",
+            "color":"blanco",
+            "descripcion":"Cupcake de chocolate blanco legendario extra bolas de caramelo",
+            "precio": 12
+        },
+        {
+            "id":8,
+            "imagen":"https://th.bing.com/th/id/OIP.Ck6C6bnYoWHaweZIsfGNogHaHa?pid=ImgDet&w=1024&h=1024&rs=1",
+            "sabor":"mora",
+            "color":"purpura",
+            "descripcion":"Algo que te lleva a otro universo con su sabor",
+            "precio":19
+        }
+    ]
+}
+
