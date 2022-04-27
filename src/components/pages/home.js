@@ -1,5 +1,6 @@
 import Cupcake from '../pages/cupcake';
 import Banner from '../sections/banner';
+import Service from '../sections/service';
 
 const Home = () => {
 
@@ -7,8 +8,8 @@ const Home = () => {
         <>
             <Banner />
             <Cupcake  peticion={"cupcake?sabor_like=vainilla"}/>
+            <Service peticion={"Servicio"} />
         </>
-
     )
 };
 

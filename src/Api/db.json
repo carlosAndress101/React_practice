@@ -63,6 +63,24 @@
             "color":"purpura",
             "descripcion":"Algo que te lleva a otro universo con su sabor",
             "precio":19
+        },
+        {
+            "id":9,
+            "sabor":"prueba",
+            "color":"prueba",
+            "descripcion":"prueba"
+        }
+    ], 
+    "Servicio":[
+        {
+            "id":1,
+            "nombre":"Curso de reposteria",
+            "descripcion":"Curso para hacer componentes de cupcakes"
+        },
+        {
+            "id":2,
+            "nombre":"Delivery all at the city",
+            "descripcion":"Pide desde donde quieras para disfrutar de un delicioso cupcake legedario"
         }
     ]
 }
