@@ -10,9 +10,11 @@ const App = () => {
         <div className="App">
             <Header />
             <Routes>
-                <Route path="/cupcake" caseSensitive={false} element={<Cupcake title peticion={"cupcake"}/> } />
-                <Route path="/About" caseSensitive={false} element={<About />} />
                 <Route path="/home" caseSensitive={false} element={<Home />} />
+                <Route path="/cupcake" caseSensitive={false} element={<Cupcake title peticion={"cupcake"} />} />
+                <Route path="/About" caseSensitive={false} element={<About />} />
+                <Route path="/" caseSensitive={false} element={<Home />} />
+
             </Routes>
         </div>
 
